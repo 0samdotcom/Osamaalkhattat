@@ -21,7 +21,7 @@ function speak(name) {
 
 // STEP 9: Expose the 'byeSpeaker' object to the global scope. Name it
 // 'byeSpeaker' on the global scope as well.
-var speakWord.speak = function byeSpeaker (names){
+var speakWord.byeSpeaker = function byeSpeaker (window){
 };
 
 })(window); // closing the global IIFE
