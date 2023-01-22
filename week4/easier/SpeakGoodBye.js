@@ -24,4 +24,4 @@ function speak(name) {
 var speakWord.speak = function byeSpeaker (names){
 };
 
-})(); // closing the global IIFE
+})(window); // closing the global IIFE
