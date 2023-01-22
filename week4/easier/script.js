@@ -64,4 +64,4 @@ for (var i = 0; i < names.length; i++) {
   }
 }
 
-})(); closing the IIFE wrap
+})(); // Closing the IIFE wrap
