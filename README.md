@@ -1,2 +1,2 @@
 # Osamaalkhattat
-Coursera-HTML, CSS, &amp; Javacript for Web Developers by Yakov Heiken -- &amp;copy; Osama Alkhattat
+Coursera-HTML, CSS, &amp; Javacript for Web Developers by Yaakov Cheiken -- &amp;copy; Osama Alkhattat
