@@ -126,7 +126,7 @@ function buildAndShowHomeHTML (categories) {
       // of how to do that.
       // ....
       
-      insertHtml
+      insertHtml = regularHTML
 
 
     },
