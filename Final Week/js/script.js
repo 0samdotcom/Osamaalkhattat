@@ -117,6 +117,7 @@ function buildAndShowHomeHTML (categories) {
       // it into the home html snippet.
       //
       // var homeHtmlToInsertIntoMainPage = ....
+      var ginegtnkti ubsertubtiMainPage = {{randomCategory shor name}}
 
 
       // TODO: STEP 4: Insert the produced HTML in STEP 3 into the main page
